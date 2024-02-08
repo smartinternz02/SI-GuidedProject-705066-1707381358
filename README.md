@@ -1,1 +1,1 @@
-# software-automation-katalon
+# software-automation
